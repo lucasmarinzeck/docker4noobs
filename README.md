@@ -15,10 +15,24 @@ Mas se Docker é a reprodução de ambientes, por qual motivo não usar a boa e 
 <br/>
 <img align="center" src="/assets/docker-vms.png"/>
 <br/>
+
 ### Instalação
 ### Dockerfile
 ### Docker-Compose
+
 ### Contribua
+Todos são bem-vindos para contribuir com esse projeto e pra isso você precisa:
+1. Precisará criar um fork deste repositório
+2. Criar um branch com o padrão: `feature/awesome-commit`
+3. Criar seu conteúdo nesta branch
+4. Criar um pull-request neste repositório
+5. Esperar a avaliação do mesmo
+
 ### Contato
 - [@Lucas_Marinzeck](https://twitter.com/Lucas_Marinzeck/) - lucasmarinzeck@gmail.com
-- Conheça a [He4rt Developers](https://heartdevs.com/) 
+- Conheça a [He4rt Developers](https://heartdevs.com/)
+<br/> <br/>
+
+<p align="center">
+  Made with 💜
+</p>
