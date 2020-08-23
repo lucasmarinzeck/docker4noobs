@@ -20,6 +20,9 @@ Mas se Docker é a reprodução de ambientes, por qual motivo não usar a boa e 
 ### Dockerfile
 ### Docker-Compose
 
+### Projeto
+<p>Vamos ver o processo de criação de uma imagem, ambiente de docker-compose,execução e deploy de um container com um projeto já criado anteriormente, é uma boa oportunidade pra você se familiarizar com os comandos e os eventuais procedimentos.</p>
+
 ### Contribua
 Todos são bem-vindos para contribuir com esse projeto e pra isso você precisa:
 1. Precisará criar um fork deste repositório
