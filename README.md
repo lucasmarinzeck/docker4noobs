@@ -9,16 +9,19 @@ Docker4Noobs. Aprenda a construir ambientes e manipular containers docker
 
 ### Index
 ### Introdução
-Antes de irmos mais afundo em como colocar uma aplicação em um container precisamos entender o que docker é. Docker é uma ferramenta que facilita a construção, execução e deploy de aplicações por meio de conteinerização, ou seja manipulçao de containers. 
-Espera, containers? Um container é um empacotamento que guarda o necessário para que uma aplicação rode. Um ambiente que pode ser replicado para outros hardwares, seja código, libs, dependências e variáveis de ambiente. Acabou aquela desculpa que "Na minha máquina roda". Com Docker é possível subir e matar aplicações rapidamente, escalar, testar e distribuir seu ambiente entre seus colegas de equipe.
-Mas se Docker é a reprodução de ambientes, por qual motivo não usar a boa e velha VM? Qual a diferença entre uma Máquina virtual e um Docker?
-<br/>
+<p>Antes de irmos mais afundo em como colocar uma aplicação em um container precisamos entender o que docker é. Docker é uma ferramenta que facilita a construção, execução e deploy de aplicações por meio de conteinerização, ou seja manipulçao de containers.</p>
+<p>Espera, containers? Um container é um empacotamento que guarda o necessário para que uma aplicação rode. Um ambiente que pode ser replicado para outros hardwares, seja código, libs, dependências e variáveis de ambiente. Acabou aquela desculpa que "Na minha máquina roda". Com Docker é possível subir e matar aplicações rapidamente, escalar, testar e distribuir seu ambiente entre seus colegas de equipe.</p>
+<p>Mas se Docker é a reprodução de ambientes, por qual motivo não usar a boa e velha VM? Qual a diferença entre uma Máquina virtual e um Docker?</p>
+<br/> <br/>
 <img align="center" src="/assets/docker-vms.png"/>
-<br/>
+<br/> <br/>
 
 ### Instalação
 ### Dockerfile
 ### Docker-Compose
+
+### Projeto
+<p>Vamos ver o processo de criação de uma imagem, ambiente de docker-compose,execução e deploy de um container com um projeto já criado anteriormente, é uma boa oportunidade pra você se familiarizar com os comandos e os eventuais procedimentos.</p>
 
 ### Contribua
 Todos são bem-vindos para contribuir com esse projeto e pra isso você precisa:
